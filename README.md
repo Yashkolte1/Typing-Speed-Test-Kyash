@@ -7,5 +7,5 @@ This Is A Fully Functional Typing Speed Test With all Correct Timing And Speed a
 4. Mistakes You Made While Typing Fast Are Also Showcast.
 
    # Screenshot
-   ![image alt]()
+   ![image alt](https://github.com/Yashkolte1/Typing-Speed-Test-Kyash/blob/main/typing%20speed.jpg?raw=true)
 
